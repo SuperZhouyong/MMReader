@@ -8,20 +8,20 @@ package yuku.filechooser;
 
 public final class R {
 	public static final class drawable {
-		public static final int filechooser_file = 0x7f020091;
-		public static final int filechooser_folder = 0x7f020092;
-		public static final int filechooser_up = 0x7f020093;
+		public static final int filechooser_file = 0x7f02009e;
+		public static final int filechooser_folder = 0x7f02009f;
+		public static final int filechooser_up = 0x7f0200a0;
 	}
 	public static final class id {
-		public static final int filechooser_bOk = 0x7f0d009c;
-		public static final int filechooser_bottombar = 0x7f0d009a;
-		public static final int filechooser_lPath = 0x7f0d009b;
-		public static final int filechooser_lsFile = 0x7f0d0098;
-		public static final int filechooser_tree = 0x7f0d0099;
+		public static final int filechooser_bOk = 0x7f0d009d;
+		public static final int filechooser_bottombar = 0x7f0d009b;
+		public static final int filechooser_lPath = 0x7f0d009c;
+		public static final int filechooser_lsFile = 0x7f0d0099;
+		public static final int filechooser_tree = 0x7f0d009a;
 	}
 	public static final class layout {
-		public static final int filechooser_activity_filechooser = 0x7f03002c;
-		public static final int filechooser_activity_folderchooser = 0x7f03002d;
+		public static final int filechooser_activity_filechooser = 0x7f03002d;
+		public static final int filechooser_activity_folderchooser = 0x7f03002e;
 	}
 	public static final class string {
 		public static final int filechooser_cancel = 0x7f060001;

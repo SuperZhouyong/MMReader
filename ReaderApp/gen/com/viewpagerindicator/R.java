@@ -84,22 +84,22 @@ public final class R {
 		public static final int default_title_indicator_top_padding = 0x7f0a001c;
 	}
 	public static final class drawable {
-		public static final int custom_tab_indicator = 0x7f02007f;
-		public static final int custom_tab_indicator_divider = 0x7f020080;
-		public static final int custom_tab_indicator_focused = 0x7f020081;
-		public static final int custom_tab_indicator_selected = 0x7f020082;
-		public static final int custom_tab_indicator_selected_focused = 0x7f020083;
-		public static final int custom_tab_indicator_selected_pressed = 0x7f020084;
-		public static final int custom_tab_indicator_unselected = 0x7f020085;
-		public static final int custom_tab_indicator_unselected_focused = 0x7f020086;
-		public static final int custom_tab_indicator_unselected_pressed = 0x7f020087;
-		public static final int vpi__tab_indicator = 0x7f020145;
-		public static final int vpi__tab_selected_focused_holo = 0x7f020146;
-		public static final int vpi__tab_selected_holo = 0x7f020147;
-		public static final int vpi__tab_selected_pressed_holo = 0x7f020148;
-		public static final int vpi__tab_unselected_focused_holo = 0x7f020149;
-		public static final int vpi__tab_unselected_holo = 0x7f02014a;
-		public static final int vpi__tab_unselected_pressed_holo = 0x7f02014b;
+		public static final int custom_tab_indicator = 0x7f02008b;
+		public static final int custom_tab_indicator_divider = 0x7f02008c;
+		public static final int custom_tab_indicator_focused = 0x7f02008d;
+		public static final int custom_tab_indicator_selected = 0x7f02008e;
+		public static final int custom_tab_indicator_selected_focused = 0x7f02008f;
+		public static final int custom_tab_indicator_selected_pressed = 0x7f020090;
+		public static final int custom_tab_indicator_unselected = 0x7f020091;
+		public static final int custom_tab_indicator_unselected_focused = 0x7f020092;
+		public static final int custom_tab_indicator_unselected_pressed = 0x7f020093;
+		public static final int vpi__tab_indicator = 0x7f020155;
+		public static final int vpi__tab_selected_focused_holo = 0x7f020156;
+		public static final int vpi__tab_selected_holo = 0x7f020157;
+		public static final int vpi__tab_selected_pressed_holo = 0x7f020158;
+		public static final int vpi__tab_unselected_focused_holo = 0x7f020159;
+		public static final int vpi__tab_unselected_holo = 0x7f02015a;
+		public static final int vpi__tab_unselected_pressed_holo = 0x7f02015b;
 	}
 	public static final class id {
 		public static final int bottom = 0x7f0d0013;

@@ -136,8 +136,8 @@ public final class FBReader extends ZLAndroidActivity {
 	@Override
 	public void onCreate(Bundle icicle) {
 		super.onCreate(icicle);
-		UmengUpdateAgent.update(this);
-		UmengUpdateAgent.setUpdateOnlyWifi(false);
+//		UmengUpdateAgent.update(this);
+//		UmengUpdateAgent.setUpdateOnlyWifi(false);
 		//安智广告
 		AppWallManager.init(getApplicationContext(), "n01vg4E7OQhFAX8vMh5Xf3B1");
 		AppConnect.getInstance(this);

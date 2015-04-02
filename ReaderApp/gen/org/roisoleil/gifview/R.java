@@ -13,10 +13,10 @@ public final class R {
 		public static final int paused = 0x7f010001;
 	}
 	public static final class drawable {
-		public static final int pause = 0x7f0200d2;
+		public static final int pause = 0x7f0200e2;
 	}
 	public static final class layout {
-		public static final int pause = 0x7f03003e;
+		public static final int pause = 0x7f030040;
 	}
 	public static final class string {
 		public static final int pause = 0x7f060004;

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/4/test/src/org/geometerplus/android/fbreader
+END
+ButtonsPopupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ButtonsPopupPanel.java
+END
+ProcessHyperlinkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ProcessHyperlinkAction.java
+END
+ShowMenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowMenuAction.java
+END
+DictionaryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/DictionaryUtil.java
+END
+SelectionShowPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionShowPanelAction.java
+END
+SetOrientationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SetOrientationAction.java
+END
+SelectionShareAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionShareAction.java
+END
+PackageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/PackageInfo.java
+END
+ShowCancelMenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowCancelMenuAction.java
+END
+FBReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/laohan/!svn/ver/10/test/src/org/geometerplus/android/fbreader/FBReader.java
+END
+SelectionCopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionCopyAction.java
+END
+ShowFriendInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowFriendInfoAction.java
+END
+PopupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/PopupPanel.java
+END
+ShowTOCAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowTOCAction.java
+END
+ShowBookmarksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowBookmarksAction.java
+END
+BookmarkEditActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/BookmarkEditActivity.java
+END
+PopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/PopupWindow.java
+END
+SelectionHidePanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionHidePanelAction.java
+END
+FBReaderApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/10/test/src/org/geometerplus/android/fbreader/FBReaderApplication.java
+END
+ShowPreferencesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowPreferencesAction.java
+END
+SelectionTranslateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionTranslateAction.java
+END
+CancelActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/CancelActivity.java
+END
+TOCActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/TOCActivity.java
+END
+ShowLibraryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowLibraryAction.java
+END
+SearchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SearchAction.java
+END
+ShowBookInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowBookInfoAction.java
+END
+BookmarksActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/BookmarksActivity.java
+END
+ZLTreeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ZLTreeAdapter.java
+END
+SelectionBookmarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionBookmarkAction.java
+END
+SelectionPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/SelectionPopup.java
+END
+ShowNetworkLibraryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowNetworkLibraryAction.java
+END
+RunActivityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/RunActivityAction.java
+END
+RunPluginAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/RunPluginAction.java
+END
+NavigationPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/NavigationPopup.java
+END
+FBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/FBUtil.java
+END
+FBAndroidAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/FBAndroidAction.java
+END
+ShowNavigationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/ShowNavigationAction.java
+END
+TextSearchPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/TextSearchPopup.java
+END

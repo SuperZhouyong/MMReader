@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library
+END
+FirstLevelTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FirstLevelTree.java
+END
+FileTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FileTree.java
+END
+FileFirstLevelTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FileFirstLevelTree.java
+END
+TitleTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/TitleTree.java
+END
+BooksDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/BooksDatabase.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/Author.java
+END
+LibraryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/LibraryUtil.java
+END
+RootTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/RootTree.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/Library.java
+END
+Bookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/Bookmark.java
+END
+SeriesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/SeriesInfo.java
+END
+FileInfoSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FileInfoSet.java
+END
+SearchResultsTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/SearchResultsTree.java
+END
+BookTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/BookTree.java
+END
+SeriesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/SeriesTree.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/Tag.java
+END
+BookInSeriesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/BookInSeriesTree.java
+END
+FavoritesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FavoritesTree.java
+END
+AuthorTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/AuthorTree.java
+END
+LibraryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/LibraryTree.java
+END
+AbstractLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/AbstractLibrary.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/Book.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/FileInfo.java
+END
+TagTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/library/TagTree.java
+END

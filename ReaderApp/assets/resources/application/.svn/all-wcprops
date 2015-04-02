@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/assets/resources/application
+END
+zh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/assets/resources/application/zh.xml
+END
+en.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/assets/resources/application/en.xml
+END
+zh_TW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/laohan/!svn/ver/2/test/assets/resources/application/zh_TW.xml
+END

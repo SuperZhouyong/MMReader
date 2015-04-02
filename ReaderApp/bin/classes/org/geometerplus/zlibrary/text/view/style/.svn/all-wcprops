@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style
+END
+ZLTextFullyDecoratedStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextFullyDecoratedStyle.java
+END
+ZLTextStyleDecoration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextStyleDecoration.java
+END
+ZLTextBaseStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextBaseStyle.java
+END
+ZLTextDecoratedStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextDecoratedStyle.java
+END
+ZLTextFullStyleDecoration.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextFullStyleDecoration.java
+END
+ZLTextStyleCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextStyleCollection.java
+END
+ZLTextPartiallyDecoratedStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextPartiallyDecoratedStyle.java
+END
+ZLTextExplicitlyDecoratedStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/style/ZLTextExplicitlyDecoratedStyle.java
+END

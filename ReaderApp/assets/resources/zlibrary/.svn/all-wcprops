@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/laohan/!svn/ver/2/test/assets/resources/zlibrary
+END
+zh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/assets/resources/zlibrary/zh.xml
+END
+en.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/assets/resources/zlibrary/en.xml
+END
+zh_TW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/assets/resources/zlibrary/zh_TW.xml
+END

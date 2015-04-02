@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view
+END
+ZLTextFixedPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextFixedPosition.java
+END
+PaintStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/PaintStateEnum.java
+END
+ZLTextParagraphCursorCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextParagraphCursorCache.java
+END
+ZLTextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextElement.java
+END
+ZLTextImageRegionSoul.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextImageRegionSoul.java
+END
+ZLTextControlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextControlElement.java
+END
+ZLTextImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextImageElement.java
+END
+ZLTextStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextStyle.java
+END
+ZLTextHorizontalConvexHull.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextHorizontalConvexHull.java
+END
+ZLTextViewBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextViewBase.java
+END
+ZLTextHighlighting.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextHighlighting.java
+END
+ZLTextHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextHyperlink.java
+END
+ZLTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextView.java
+END
+ZLTextHyperlinkControlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextHyperlinkControlElement.java
+END
+ZLTextWordRegionSoul.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextWordRegionSoul.java
+END
+ZLTextElementArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextElementArea.java
+END
+ZLTextSelectionCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextSelectionCursor.java
+END
+ZLTextRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextRegion.java
+END
+ZLTextSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextSelection.java
+END
+ZLTextAbstractHighlighting.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextAbstractHighlighting.java
+END
+ZLTextFixedHSpaceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextFixedHSpaceElement.java
+END
+ZLTextParagraphCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextParagraphCursor.java
+END
+ZLTextLineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextLineInfo.java
+END
+ZLTextPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextPosition.java
+END
+ZLTextElementAreaVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextElementAreaVector.java
+END
+ZLTextWordCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextWordCursor.java
+END
+ZLTextStyleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextStyleElement.java
+END
+ZLTextWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextWord.java
+END
+ZLTextPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextPage.java
+END
+ZLTextHyperlinkRegionSoul.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextHyperlinkRegionSoul.java
+END
+ZLTextTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/view/ZLTextTraverser.java
+END

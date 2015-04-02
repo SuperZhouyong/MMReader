@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes
+END
+FileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileType.java
+END
+FileTypeHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeHtml.java
+END
+FileTypeDjVu.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeDjVu.java
+END
+FileTypeFB2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeFB2.java
+END
+FileTypePalm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypePalm.java
+END
+SimpleFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/SimpleFileType.java
+END
+FileTypeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeCollection.java
+END
+FileTypeEpub.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeEpub.java
+END
+FileTypeMobipocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/filetypes/FileTypeMobipocket.java
+END

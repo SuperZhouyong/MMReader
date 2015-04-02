@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/view
+END
+ZLView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/view/ZLView.java
+END
+ZLViewWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/view/ZLViewWidget.java
+END
+ZLPaintContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/view/ZLPaintContext.java
+END
+DummyPaintContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/view/DummyPaintContext.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader
+END
+ColorProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ColorProfile.java
+END
+TextBuildTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/TextBuildTraverser.java
+END
+MoveCursorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/MoveCursorAction.java
+END
+ChangeFontSizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ChangeFontSizeAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ExitAction.java
+END
+ClearFindResultsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ClearFindResultsAction.java
+END
+ActionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ActionCode.java
+END
+WallpapersUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/WallpapersUtil.java
+END
+FindPreviousAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/FindPreviousAction.java
+END
+FBReaderApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/FBReaderApp.java
+END
+FindNextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/FindNextAction.java
+END
+TapZoneMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/TapZoneMap.java
+END
+ScrollingPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/ScrollingPreferences.java
+END
+SwitchProfileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/SwitchProfileAction.java
+END
+FBView.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/FBView.java
+END
+WordCountTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/WordCountTraverser.java
+END
+TurnPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/TurnPageAction.java
+END
+VolumeKeyTurnPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/VolumeKeyTurnPageAction.java
+END
+FBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/FBAction.java
+END
+SelectionClearAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/fbreader/SelectionClearAction.java
+END

@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/laohan/!svn/ver/2/test/res/layout
+END
+mylist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/laohan/!svn/ver/2/test/res/layout/mylist.xml
+END
+control_panel_floating.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/2/test/res/layout/control_panel_floating.xml
+END
+bookmark_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/res/layout/bookmark_item.xml
+END
+control_panel_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/res/layout/control_panel_bottom.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/laohan/!svn/ver/2/test/res/layout/main.xml
+END
+scan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/laohan/!svn/ver/2/test/res/layout/scan.xml
+END
+share_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/laohan/!svn/ver/7/test/res/layout/share_fragment.xml
+END
+network_tree_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/res/layout/network_tree_item.xml
+END
+rank_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/7/test/res/layout/rank_list.xml
+END
+res_file_item_share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/laohan/!svn/ver/2/test/res/layout/res_file_item_share.xml
+END
+rank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/laohan/!svn/ver/7/test/res/layout/rank.xml
+END
+ok_cancel_buttons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/res/layout/ok_cancel_buttons.xml
+END
+error_book_reading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/2/test/res/layout/error_book_reading.xml
+END
+navigate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/laohan/!svn/ver/2/test/res/layout/navigate.xml
+END
+sharelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/res/layout/sharelist.xml
+END
+library_tree_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/res/layout/library_tree_item.xml
+END
+bug_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/laohan/!svn/ver/2/test/res/layout/bug_report_view.xml
+END
+cancel_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/laohan/!svn/ver/2/test/res/layout/cancel_item.xml
+END
+missing_native_library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/2/test/res/layout/missing_native_library.xml
+END
+network_book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/laohan/!svn/ver/2/test/res/layout/network_book.xml
+END
+res_file_item_dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/10/test/res/layout/res_file_item_dir.xml
+END
+book_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/7/test/res/layout/book_item.xml
+END
+filelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/laohan/!svn/ver/2/test/res/layout/filelist.xml
+END
+umeng_fb_new_reply_alert_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_fb_new_reply_alert_dialog.xml
+END
+plugin_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/res/layout/plugin_dialog.xml
+END
+download_notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/laohan/!svn/ver/2/test/res/layout/download_notification.xml
+END
+animation_speed_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/2/test/res/layout/animation_speed_dialog.xml
+END
+umeng_common_download_notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_common_download_notification.xml
+END
+book_info_pair.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/laohan/!svn/ver/2/test/res/layout/book_info_pair.xml
+END
+toc_tree_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/res/layout/toc_tree_item.xml
+END
+search_file_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/10/test/res/layout/search_file_item.xml
+END
+menu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/res/layout/menu_item.xml
+END
+res_file_item_sharelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/laohan/!svn/ver/10/test/res/layout/res_file_item_sharelist.xml
+END
+fram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/laohan/!svn/ver/2/test/res/layout/fram.xml
+END
+umeng_fb_list_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_fb_list_header.xml
+END
+bookmarks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/res/layout/bookmarks.xml
+END
+search_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/laohan/!svn/ver/7/test/res/layout/search_grid_item.xml
+END
+umeng_fb_activity_conversation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_fb_activity_conversation.xml
+END
+jifen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/laohan/!svn/ver/10/test/res/layout/jifen.xml
+END
+umeng_fb_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_fb_list_item.xml
+END
+pic_browse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/laohan/!svn/ver/2/test/res/layout/pic_browse.xml
+END
+umeng_update_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_update_dialog.xml
+END
+color_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/laohan/!svn/ver/2/test/res/layout/color_dialog.xml
+END
+pull_refresh_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/laohan/!svn/ver/2/test/res/layout/pull_refresh_header.xml
+END
+scan_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/res/layout/scan_item.xml
+END
+simple_tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/laohan/!svn/ver/7/test/res/layout/simple_tabs.xml
+END
+search_file_item2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/res/layout/search_file_item2.xml
+END
+book_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/res/layout/book_info.xml
+END
+search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/laohan/!svn/ver/7/test/res/layout/search.xml
+END
+res_file_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/res/layout/res_file_item.xml
+END
+books_directory_fix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/laohan/!svn/ver/2/test/res/layout/books_directory_fix.xml
+END
+buy_book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/laohan/!svn/ver/2/test/res/layout/buy_book.xml
+END
+umeng_fb_activity_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/10/test/res/layout/umeng_fb_activity_contact.xml
+END
+edit_bookmark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/laohan/!svn/ver/2/test/res/layout/edit_bookmark.xml
+END
+content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/laohan/!svn/ver/2/test/res/layout/content.xml
+END
+add_custom_catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/2/test/res/layout/add_custom_catalog.xml
+END
+book_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/laohan/!svn/ver/7/test/res/layout/book_detail.xml
+END
+extra_link_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/laohan/!svn/ver/2/test/res/layout/extra_link_item.xml
+END
+rank_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/laohan/!svn/ver/7/test/res/layout/rank_grid_item.xml
+END
+authentication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/laohan/!svn/ver/2/test/res/layout/authentication.xml
+END

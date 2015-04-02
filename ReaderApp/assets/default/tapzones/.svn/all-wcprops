@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/laohan/!svn/ver/2/test/assets/default/tapzones
+END
+up.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/laohan/!svn/ver/2/test/assets/default/tapzones/up.xml
+END
+down.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/assets/default/tapzones/down.xml
+END
+left_to_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/assets/default/tapzones/left_to_right.xml
+END
+right_to_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/assets/default/tapzones/right_to_left.xml
+END

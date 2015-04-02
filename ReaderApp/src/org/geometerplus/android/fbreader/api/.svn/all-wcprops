@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api
+END
+ApiListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiListener.java
+END
+ApiObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiObject.java
+END
+ApiInterface.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiInterface.aidl
+END
+ApiServerImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiServerImplementation.java
+END
+ApiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiException.java
+END
+ApiObject.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiObject.aidl
+END
+PluginApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/PluginApi.java
+END
+Api.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/Api.java
+END
+TextPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/TextPosition.java
+END
+ApiService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiService.java
+END
+ApiMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiMethods.java
+END
+ApiClientImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/api/ApiClientImplementation.java
+END

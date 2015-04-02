@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb
+END
+OEBAnnotationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBAnnotationReader.java
+END
+OEBBookReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBBookReader.java
+END
+OEBPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBPlugin.java
+END
+ContainerFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/ContainerFileReader.java
+END
+OEBCoverBackgroundReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBCoverBackgroundReader.java
+END
+OEBCoverReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBCoverReader.java
+END
+XHTMLImageFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/XHTMLImageFinder.java
+END
+NCXReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/NCXReader.java
+END
+OEBMetaInfoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBMetaInfoReader.java
+END
+OEBNativePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/oeb/OEBNativePlugin.java
+END

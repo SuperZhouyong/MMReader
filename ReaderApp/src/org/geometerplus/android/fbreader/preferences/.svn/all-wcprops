@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences
+END
+ZLChoicePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLChoicePreference.java
+END
+FontOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/FontOption.java
+END
+AnimationSpeedPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/AnimationSpeedPreference.java
+END
+ZLPreferenceSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLPreferenceSet.java
+END
+UrlPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/UrlPreference.java
+END
+ZLPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLPreferenceActivity.java
+END
+DictionaryPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/DictionaryPreference.java
+END
+ZLStringOptionPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLStringOptionPreference.java
+END
+ZLBoolean3Preference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLBoolean3Preference.java
+END
+ZLStringListPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLStringListPreference.java
+END
+BatteryLevelToTurnScreenOffPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/BatteryLevelToTurnScreenOffPreference.java
+END
+ZLEnumPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLEnumPreference.java
+END
+ZLStringPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLStringPreference.java
+END
+ZLIntegerChoicePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLIntegerChoicePreference.java
+END
+ZLIntegerRangePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLIntegerRangePreference.java
+END
+ZLColorPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLColorPreference.java
+END
+ZLBooleanPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLBooleanPreference.java
+END
+WallpaperPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/WallpaperPreference.java
+END
+FontStylePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/FontStylePreference.java
+END
+ZLStringChoicePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLStringChoicePreference.java
+END
+EditBookInfoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/EditBookInfoActivity.java
+END
+InfoPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/InfoPreference.java
+END
+ZLCheckBoxPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/ZLCheckBoxPreference.java
+END
+PreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/preferences/PreferenceActivity.java
+END

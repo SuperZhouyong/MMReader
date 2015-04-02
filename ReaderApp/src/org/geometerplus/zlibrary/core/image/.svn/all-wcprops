@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image
+END
+ZLBase64EncodedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLBase64EncodedImage.java
+END
+ZLImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLImageData.java
+END
+ZLImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLImageManager.java
+END
+ZLFileImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLFileImage.java
+END
+ZLImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLImage.java
+END
+ZLImageProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLImageProxy.java
+END
+ZLSingleImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLSingleImage.java
+END
+ZLLoadableImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/image/ZLLoadableImage.java
+END

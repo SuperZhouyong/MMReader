@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation
+END
+ZLTextTeXHyphenationPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation/ZLTextTeXHyphenationPattern.java
+END
+ZLTextHyphenationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation/ZLTextHyphenationReader.java
+END
+ZLTextHyphenator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation/ZLTextHyphenator.java
+END
+ZLTextHyphenationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation/ZLTextHyphenationInfo.java
+END
+ZLTextTeXHyphenator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/hyphenation/ZLTextTeXHyphenator.java
+END

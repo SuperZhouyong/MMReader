@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml
+END
+XHTMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLReader.java
+END
+XHTMLTagRestartParagraphAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagRestartParagraphAction.java
+END
+XHTMLTagBodyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagBodyAction.java
+END
+XHTMLTagItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagItemAction.java
+END
+XHTMLTagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagAction.java
+END
+XHTMLTagControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagControlAction.java
+END
+XHTMLTagImageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagImageAction.java
+END
+XHTMLTagParagraphWithControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagParagraphWithControlAction.java
+END
+XHTMLTagHyperlinkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagHyperlinkAction.java
+END
+XHTMLTagParagraphAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagParagraphAction.java
+END
+XHTMLTagPreAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/xhtml/XHTMLTagPreAction.java
+END

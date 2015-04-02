@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2
+END
+FB2MetaInfoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2MetaInfoReader.java
+END
+FB2NativePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2NativePlugin.java
+END
+FB2TagManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2TagManager.java
+END
+FB2Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2Tag.java
+END
+FB2AnnotationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2AnnotationReader.java
+END
+FB2Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2Util.java
+END
+FB2Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2Plugin.java
+END
+Base64EncodedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/Base64EncodedImage.java
+END
+FB2CoverImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2CoverImage.java
+END
+FB2CoverReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2CoverReader.java
+END
+FB2Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/fb2/FB2Reader.java
+END

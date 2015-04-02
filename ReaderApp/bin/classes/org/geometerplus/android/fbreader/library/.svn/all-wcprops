@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library
+END
+KillerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/KillerCallback.java
+END
+LibraryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/LibraryActivity.java
+END
+BookInfoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/BookInfoActivity.java
+END
+SQLiteBooksDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/SQLiteBooksDatabase.java
+END
+LibraryTreeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/LibraryTreeAdapter.java
+END
+LibrarySearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/android/fbreader/library/LibrarySearchActivity.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel
+END
+FBHyperlinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/FBHyperlinkType.java
+END
+FBTextKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/FBTextKind.java
+END
+NativeBookModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/NativeBookModel.java
+END
+BookReadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/BookReadingException.java
+END
+TOCTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/TOCTree.java
+END
+BookModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/BookModel.java
+END
+BookModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/BookModelImpl.java
+END
+BookReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/BookReader.java
+END
+JavaBookModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/bookmodel/JavaBookModel.java
+END

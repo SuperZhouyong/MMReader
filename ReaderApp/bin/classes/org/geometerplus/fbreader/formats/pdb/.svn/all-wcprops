@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb
+END
+MobipocketHtmlBookReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/MobipocketHtmlBookReader.java
+END
+PalmDocLikeStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/PalmDocLikeStream.java
+END
+PdbStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/PdbStream.java
+END
+PdbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/PdbUtil.java
+END
+MobipocketStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/MobipocketStream.java
+END
+DocDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/DocDecompressor.java
+END
+MobipocketPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/MobipocketPlugin.java
+END
+HuffdicDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/HuffdicDecompressor.java
+END
+PdbHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/fbreader/formats/pdb/PdbHeader.java
+END

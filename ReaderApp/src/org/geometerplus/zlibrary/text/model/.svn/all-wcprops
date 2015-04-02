@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model
+END
+ZLTextOtherStyleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextOtherStyleEntry.java
+END
+ZLTextPlainModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextPlainModel.java
+END
+ZLTextParagraphImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextParagraphImpl.java
+END
+CharStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/CharStorage.java
+END
+ZLTextSpecialParagraphImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextSpecialParagraphImpl.java
+END
+ZLTextMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextMark.java
+END
+ZLTextWritableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextWritableModel.java
+END
+ZLTextCSSStyleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextCSSStyleEntry.java
+END
+CachedCharStorageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/CachedCharStorageException.java
+END
+ZLImageEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLImageEntry.java
+END
+ZLTextModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextModel.java
+END
+SimpleCharStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/SimpleCharStorage.java
+END
+ZLTextParagraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextParagraph.java
+END
+ZLTextMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextMetrics.java
+END
+ZLTextNativeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextNativeModel.java
+END
+CachedCharStorageBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/CachedCharStorageBase.java
+END
+ZLTextWritablePlainModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextWritablePlainModel.java
+END
+CachedCharStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/CachedCharStorage.java
+END
+ZLTextAlignmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextAlignmentType.java
+END
+CachedCharStorageRO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/CachedCharStorageRO.java
+END
+ZLTextStyleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/text/model/ZLTextStyleEntry.java
+END

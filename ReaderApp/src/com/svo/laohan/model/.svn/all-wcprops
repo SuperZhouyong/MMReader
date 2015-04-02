@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/laohan/!svn/ver/2/test/src/com/svo/laohan/model
+END
+FileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/FileService.java
+END
+UploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/UploadService.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/SearchService.java
+END
+Mjifen.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/Mjifen.java
+END
+BcsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/BcsService.java
+END
+ResService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/10/test/src/com/svo/laohan/model/ResService.java
+END
+RankService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/laohan/!svn/ver/5/test/src/com/svo/laohan/model/RankService.java
+END

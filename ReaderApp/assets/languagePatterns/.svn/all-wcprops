@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns
+END
+zh_gb2312
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_gb2312
+END
+zh_utf-16
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_utf-16
+END
+en_utf-16
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/en_utf-16
+END
+zh_gbk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_gbk
+END
+zh_utf-8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_utf-8
+END
+en_utf-8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/en_utf-8
+END
+zh_gb18030
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_gb18030
+END
+zh_big5
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_big5
+END
+zh_utf-16be
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/zh_utf-16be
+END
+en_utf-16be
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/laohan/!svn/ver/2/test/assets/languagePatterns/en_utf-16be
+END

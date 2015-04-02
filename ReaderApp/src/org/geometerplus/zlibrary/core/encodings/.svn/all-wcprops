@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings
+END
+FilteredEncodingCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/FilteredEncodingCollection.java
+END
+EncodingCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/EncodingCollection.java
+END
+JavaEncodingCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/JavaEncodingCollection.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/Encoding.java
+END
+AutoEncodingCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/AutoEncodingCollection.java
+END
+EncodingConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/laohan/!svn/ver/2/test/src/org/geometerplus/zlibrary/core/encodings/EncodingConverter.java
+END

@@ -31,7 +31,7 @@ import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 final class NavigationPopup extends PopupPanel {
 	final static String ID = "NavigationPopup";

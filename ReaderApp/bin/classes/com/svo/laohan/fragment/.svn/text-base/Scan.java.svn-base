@@ -17,7 +17,7 @@ import android.widget.Toast;
 import com.actionbarsherlock.app.SherlockFragment;
 import com.loopj.android.http.JsonHttpResponseHandler;
 import com.svo.laohan.MyListActivity;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.adapter.ResAdapter;
 import com.svo.laohan.model.FileService;
 import com.svo.laohan.model.ResService;

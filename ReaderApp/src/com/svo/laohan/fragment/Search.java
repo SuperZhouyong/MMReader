@@ -30,7 +30,7 @@ import android.widget.Toast;
 import cn.waps.AppConnect;
 
 import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.model.FileService;
 import com.svo.laohan.model.Mjifen;
 import com.svo.laohan.model.SearchService;

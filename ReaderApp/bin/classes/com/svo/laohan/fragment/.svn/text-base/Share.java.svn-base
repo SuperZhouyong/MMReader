@@ -17,7 +17,7 @@ import cn.waps.UpdatePointsNotifier;
 
 import com.actionbarsherlock.app.SherlockFragment;
 import com.svo.laohan.JifenActivity;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.ShareList;
 import com.svo.laohan.adapter.ShareAdapter;
 import com.svo.laohan.model.Mjifen;

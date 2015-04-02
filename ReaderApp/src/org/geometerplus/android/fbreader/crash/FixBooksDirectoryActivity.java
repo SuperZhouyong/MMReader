@@ -31,7 +31,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class FixBooksDirectoryActivity extends Activity {
 	@Override

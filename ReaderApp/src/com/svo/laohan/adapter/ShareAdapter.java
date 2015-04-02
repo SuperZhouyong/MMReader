@@ -11,7 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class ShareAdapter extends BaseAdapter {
 	private Activity context;

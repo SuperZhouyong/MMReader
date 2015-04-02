@@ -45,6 +45,7 @@ import com.svo.platform.share.model.Qzone;
 import com.svo.platform.share.model.Tencent;
 import com.svo.platform.utils.Constants;
 import com.svo.platform.widget.PushRefreshListView;
+import com.svo.mmreader.R;
 
 public class ShareList extends SherlockActivity implements OnItemClickListener{
 	public String fileChoosePath = Environment.getExternalStorageDirectory().getAbsolutePath();

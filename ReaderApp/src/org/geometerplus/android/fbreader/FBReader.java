@@ -62,7 +62,7 @@ import cn.waps.AppConnect;
 
 import com.adfeiwo.ad.appwall.AppWallManager;
 import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.platform.utils.HttpUtil;
 import com.svo.platform.utils.SvoUtil;
 import com.umeng.analytics.MobclickAgent;

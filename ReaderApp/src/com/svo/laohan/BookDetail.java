@@ -22,6 +22,7 @@ import com.svo.laohan.model.Mjifen;
 import com.svo.laohan.util.Constant;
 import com.svo.laohan.util.FileUtil;
 import com.svo.laohan.util.StringUtil;
+import com.svo.mmreader.R;
 import com.svo.platform.share.Share;
 import com.svo.platform.utils.Constants;
 import com.svo.platform.utils.PicUtil;

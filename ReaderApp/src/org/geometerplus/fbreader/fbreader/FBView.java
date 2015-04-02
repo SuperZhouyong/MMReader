@@ -36,7 +36,7 @@ import org.geometerplus.fbreader.bookmodel.BookModel;
 import org.geometerplus.fbreader.bookmodel.FBHyperlinkType;
 import org.geometerplus.fbreader.bookmodel.TOCTree;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -531,8 +531,8 @@ public final class FBView extends ZLTextView {
 			// draw info text
 			context.setTextColor(fgColor);
 //			context.drawString(right - infoWidth, height - delta, infoString);
-			Bitmap mpBitmap = BitmapFactory.decodeResource(FBReader.context.getResources(), R.drawable.ic_list_flag);
-			context.drawBitmap((context.getWidth() - getRightMargin()- getLeftMargin() - infoWidth)/2, height - delta - 10, mpBitmap);
+//			Bitmap mpBitmap = BitmapFactory.decodeResource(FBReader.context.getResources(), R.drawable.ic_list_flag);
+//			context.drawBitmap((context.getWidth() - getRightMargin()- getLeftMargin() - infoWidth)/2, height - delta - 10, mpBitmap);
 			context.drawString((context.getWidth() - getRightMargin()- getLeftMargin() - infoWidth)/2, height - delta - 10, infoString);
 			
 			if(true) return;
@@ -603,6 +603,8 @@ public final class FBView extends ZLTextView {
 		}
 
 		public synchronized void paint(ZLPaintContext context) {
+			if(true) return;
+			
 			final PagePosition pagePosition = FBView.this.pagePosition();
 			if(pagePosition.Current != 2) return;
 			

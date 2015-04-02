@@ -35,7 +35,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 class LibraryTreeAdapter extends TreeAdapter {
 	private CoverManager myCoverManager;

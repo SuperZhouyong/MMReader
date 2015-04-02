@@ -19,7 +19,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.svo.laohan.MyListActivity;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.util.StringUtil;
 import com.svo.laohan.util.TypeUtil;
 

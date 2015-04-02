@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.ShareList;
 import com.svo.laohan.model.dao.entity.FileEntity;
 import com.svo.laohan.util.StringUtil;

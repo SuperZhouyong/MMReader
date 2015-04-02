@@ -24,6 +24,7 @@ import com.svo.laohan.util.FileUtil;
 import com.svo.laohan.util.NetStateUtil;
 import com.svo.laohan.util.StringUtil;
 import com.svo.laohan.util.TypeUtil;
+import com.svo.mmreader.R;
 import com.svo.platform.widget.PushRefreshListView;
 import com.umeng.analytics.MobclickAgent;
 

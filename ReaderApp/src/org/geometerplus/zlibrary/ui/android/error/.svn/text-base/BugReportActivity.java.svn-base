@@ -27,7 +27,7 @@ import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class BugReportActivity extends Activity implements ErrorKeys {
 	public void onCreate(Bundle icicle) {

@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import com.loopj.android.http.JsonHttpResponseHandler;
 import com.svo.laohan.BookDetail;
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.laohan.model.RankService;
 import com.svo.laohan.model.dao.RankData;
 import com.svo.platform.utils.HttpUtil;

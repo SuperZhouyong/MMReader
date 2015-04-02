@@ -38,7 +38,7 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class TOCActivity extends ListActivity {
 	private TOCAdapter myAdapter;

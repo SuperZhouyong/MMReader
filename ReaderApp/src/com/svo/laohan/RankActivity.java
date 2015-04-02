@@ -14,6 +14,7 @@ import android.view.Window;
 
 import com.svo.laohan.fragment.RankBooks;
 import com.viewpagerindicator.TabPageIndicator;
+import com.svo.mmreader.R;
 
 public class RankActivity extends FragmentActivity {
 	private JSONArray arr;

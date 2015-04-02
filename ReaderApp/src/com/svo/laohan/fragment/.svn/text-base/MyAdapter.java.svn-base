@@ -14,7 +14,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 import com.svo.platform.utils.PicUtil;
 
 public class MyAdapter extends BaseAdapter {

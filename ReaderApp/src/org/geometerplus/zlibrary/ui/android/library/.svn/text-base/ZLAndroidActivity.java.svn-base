@@ -37,7 +37,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public abstract class ZLAndroidActivity extends Activity {
 	protected abstract ZLApplication createApplication();

@@ -14,6 +14,7 @@ import com.svo.laohan.fragment.Scan;
 import com.svo.laohan.fragment.Search;
 import com.svo.laohan.fragment.Share;
 import com.svo.laohan.model.Mjifen;
+import com.svo.mmreader.R;
 import com.svo.platform.share.model.Qzone;
 import com.svo.platform.share.model.Tencent;
 import com.umeng.analytics.MobclickAgent;

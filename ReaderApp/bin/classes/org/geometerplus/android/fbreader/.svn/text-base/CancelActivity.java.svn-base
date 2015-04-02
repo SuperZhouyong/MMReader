@@ -31,7 +31,7 @@ import android.widget.BaseAdapter;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class CancelActivity extends ListActivity {
 	static final String LIST_SIZE = "listSize";

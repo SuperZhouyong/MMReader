@@ -30,7 +30,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class BookReadingErrorActivity extends Activity implements ErrorKeys {
 	@Override

@@ -39,7 +39,7 @@ import android.preference.DialogPreference;
 import android.view.View;
 import android.widget.SeekBar;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 class ZLColorPreference extends DialogPreference {
 	private final ZLColorOption myOption;

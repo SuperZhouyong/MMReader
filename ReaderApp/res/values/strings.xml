@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="empty_string"></string>
-	<string name="app_name">老汉阅读</string>
+	<string name="app_name">MM阅读</string>
     <string name="attention">注意</string>
     <string name="delete_all">是否要删除这条微博？</string>
     <string name="cancel">否</string>

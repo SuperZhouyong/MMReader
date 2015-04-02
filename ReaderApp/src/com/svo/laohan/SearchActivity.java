@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.svo.laohan.fragment.Search;
-
+import com.svo.mmreader.R;
 public class SearchActivity extends SherlockFragmentActivity {
 	
 	private Search search;

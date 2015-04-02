@@ -28,7 +28,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 public class PopupWindow extends LinearLayout {
 	public static enum Location {

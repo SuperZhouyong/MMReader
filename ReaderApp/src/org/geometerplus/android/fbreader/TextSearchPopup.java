@@ -24,7 +24,7 @@ import org.geometerplus.fbreader.fbreader.FBReaderApp;
 
 import android.widget.RelativeLayout;
 
-import com.svo.laohan.R;
+import com.svo.mmreader.R;
 
 final class TextSearchPopup extends ButtonsPopupPanel {
 	final static String ID = "TextSearchPopup";

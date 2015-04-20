@@ -29,7 +29,7 @@
         android:label="@string/app_name" >
         
           <activity
-            android:name="com.svo.shelf.BookShelf"
+            android:name="com.simon.shelf.BookShelf"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
               <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -298,10 +298,10 @@
             android:name="com.svo.laohan.JifenActivity"
             android:theme="@android:style/Theme.Light.NoTitleBar" />
 
-        <meta-data
+       <!--  <meta-data
             android:name="UMENG_APPKEY"
             android:value="50f794a952701570cf00000f" >
-        </meta-data>
+        </meta-data -->>
         <meta-data
             android:name="UMENG_CHANNEL"
             android:value="learn" />

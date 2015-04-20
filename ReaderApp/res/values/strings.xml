@@ -33,4 +33,7 @@
 	</string-array>
 	
 	<string name="hello">Hello World, ReaderActivity!</string>
+	
+	<string name="splash_update_data">数据加载中，请稍后</string>
+	<string name="splash_loading_faild">数据加载失败</string>
 </resources>

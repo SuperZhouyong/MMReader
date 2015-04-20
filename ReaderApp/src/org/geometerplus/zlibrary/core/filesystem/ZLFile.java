@@ -22,7 +22,10 @@ package org.geometerplus.zlibrary.core.filesystem;
 import java.io.*;
 import java.util.*;
 
+import android.util.Log;
+
 public abstract class ZLFile {
+	private static final String TAG = "ZLFile";
 	private final static HashMap<String,ZLFile> ourCachedFiles = new HashMap<String,ZLFile>();
 
 	protected interface ArchiveType {
@@ -112,10 +115,11 @@ public abstract class ZLFile {
 			return cached;
 		}
 
-		if (!path.startsWith("/")) {
+		if (!path.startsWith("/") ) {
 			while (path.startsWith("./")) {
 				path = path.substring(2);
 			}
+			Log.d(TAG, "path: " + path);
 			return ZLResourceFile.createResourceFile(path);
 		}
 		int index = path.lastIndexOf(':');
@@ -124,6 +128,7 @@ public abstract class ZLFile {
 				createFileByPath(path.substring(0, index)), path.substring(index + 1)
 			);
 		}
+		Log.d(TAG, "sdcard: " + path);
 		return new ZLPhysicalFile(path);
 	}
 

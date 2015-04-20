@@ -16,7 +16,7 @@ public final class R {
 		public static final int pause = 0x7f0200e2;
 	}
 	public static final class layout {
-		public static final int pause = 0x7f030040;
+		public static final int pause = 0x7f030041;
 	}
 	public static final class string {
 		public static final int pause = 0x7f060004;

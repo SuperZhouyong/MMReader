@@ -23,4 +23,6 @@
     <color name="black">#121a2a</color>    
     <!-- 若绿 -->
     <color name="like_green">#99CC00</color>
+    <color name="text_gray_cccccc">#CCCCCC</color>
+     <color name="white">#FFFFFF</color>
 </resources> 
